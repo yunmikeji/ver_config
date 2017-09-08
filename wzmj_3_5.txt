@@ -1,0 +1,1 @@
+{"servers":[{"server_ip":"127.0.0.1","server_dk":"8300"}],"controls":{"fangka":"false","youke":"false","shenhe":"true"},"bForceUpdate":"false","FileName":"wzmj_3_5.txt"}
