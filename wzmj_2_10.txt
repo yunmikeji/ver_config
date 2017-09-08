@@ -1,0 +1,1 @@
+{"servers":[{"server_ip":"14.152.83.16","server_dk":"50000"},{"server_ip":"14.152.83.16","server_dk":"53101"}],"ziyuan":[{"server_ip":"112.74.141.202","server_dk":"17888"}],"controls":{"fangka":"false","youke":"false","shenhe":"false"},"bForceUpdate":"false","FileName":"wzmj_2_10.txt"}
